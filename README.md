@@ -15,6 +15,6 @@ For instance, the PC Division grew by 313.7%, while the overall company growth w
 3. Top 5 and Bottom 5 Products by Quantity Sold: Rank products based on the quantity sold to identify the top and bottom performers.
 Products like AQ Master wired x1 Ms and AQ Master wireless x1 Ms led the top rankings, while AQ Home Allin1 and AQ Smash 2 were among the lowest in terms of quantity sold.
 
-4.New Products Launched in 2021: Highlight the new products introduced by AtliQ in 2021,such as AQ Qwerty, AQ Trigger, and AQ Gen Y, among others, which contributed significantly to the 2021 sales revenue.
+4. New Products Launched in 2021: Highlight the new products introduced by AtliQ in 2021,such as AQ Qwerty, AQ Trigger, and AQ Gen Y, among others, which contributed significantly to the 2021 sales revenue.
 
 5. Top 5 Countries by Net Sales (2021): Provide insights into geographical performance by identifying the top 5 countries in terms of net sales for 2021. Countries like India ($161.3M) and USA ($87.8M) were top contributors.
